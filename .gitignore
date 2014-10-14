@@ -1,5 +1,54 @@
-.gradle
-build/
+# Taken and modified from https://raw.githubusercontent.com/CoFH/ThermalFoundation/master/.gitignore
 
-# Ignore Gradle GUI config
-gradle-app.setting
+#################
+## Eclipse
+#################
+
+*.pydevproject
+.gradle/
+.project
+.metadata
+bin/
+eclipse/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+crash-reports/
+logs/
+mods/
+resourcepacks/
+saves/
+/options.txt
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# PDT-specific
+.buildpath
+
+
+############
+## Windows
+############
+
+# Windows image file caches
+Thumbs.db
+
+# Folder config file
+Desktop.ini
+
+
+###########
+
+downloads
+screenshots
+

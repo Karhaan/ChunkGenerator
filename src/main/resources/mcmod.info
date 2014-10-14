@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ChunkGenerator",
+  "name": "Chunk Generator",
+  "description": "This mod adds a command to pre-generate chunks across all active worlds/dimensions.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Karhaan"],
+  "credits": "The Forge and FML guys, for making all the work to simplify our life.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

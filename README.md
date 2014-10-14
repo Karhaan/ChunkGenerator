@@ -1,4 +1,5 @@
 ChunkGenerator
 ==============
 
-Minecraft mod for server that adds a command to pregenerate chunks.
+Minecraft mod for forge servers that adds a command to force chunk generation.
+
